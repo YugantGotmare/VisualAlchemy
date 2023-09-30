@@ -1,5 +1,5 @@
-streamlit
-opencv-python
-numpy 
-PIL 
-rembg
+streamlit==1.27.1
+opencv-python==4.8.1.78
+numpy==1.26.0
+Pillow==10.0.1
+rembg==2.0.50
